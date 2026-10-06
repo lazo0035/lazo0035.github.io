@@ -1,2 +1,2 @@
-# trinbinIMD.github.io
+# lazo0035.github.io
 My pages repo
