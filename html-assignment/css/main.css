@@ -21,3 +21,18 @@ ul {
 .MyHobbies li:nth-child(odd) {
     background-color: purple;
 }
+nav ul {
+    list-style-type: none;
+}
+nav a {
+    text-decoration: none;
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-block;
+}
+
+nav a:hover, 
+nav a:focus {
+    background-color: lightgreen;
+}
