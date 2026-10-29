@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 18px;
+}
+
+body { 
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+}
+
+.wrapper {
+    width: 800px;
+    background-color: white;
+     /*center block level element*/
+    margin: 0 auto;
+
+}
+.left {
+    background-color: teal;
+}
+
+.right {
+    background-color: purple;
+}
+main article {
+    width: 400px;
+    float: left;
+    padding: 20px;
+    border: 5px solid darkblue;
+    /* margin: 20px;  */
+    box-sizing: border-box;
+    /*450px wide*/ 
+}
+
+nav ul {
+    padding-left: 0;
+    list-style-type: none;
+    
+}
+nav li {
+    /*change block level property*/ 
+    display: inline-block;
+    width: 255px;
+    /* usually change text in the link */
+    font-size: 1.5rem;
+    text-align: center;
+    border-right: 1px solid black;
+
+}
+
+nav li:last-child {
+    border-right: none;
+}
+
+.picture {
+    width: 300px;
+    height: 300px;
+    background-color: grey;
+    /*wrap text around image*/
+    float: left;
+    margin-right: 1rem; 
+}
+section {
+    background-color: darkred; 
+    /* clear: left; */
+}
+aside::after {
+    content: "";
+    display: block;
+    clear: both; 
+}
+.stage {
+    width: 100%;
+    height: 300px; 
+
+    position: relative;
+    z-index: 
+}
+/* relative works with any element */
+
