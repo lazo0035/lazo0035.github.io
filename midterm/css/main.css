@@ -123,7 +123,14 @@ form {
 
 form label {
     display: block;
-    
+
+}
+input [type="text"], input[type="email"], textarea {
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
 }
 
 
