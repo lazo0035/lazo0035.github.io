@@ -89,9 +89,6 @@ nav li:last-child {
     border-right: none;
 }
 
-main { 
-    padding: 8px;
-}
 .content-image {
     max-width: 100%;
     height: auto;
