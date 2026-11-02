@@ -102,13 +102,13 @@ main {
 }
 
 
-.content::after {
+.story-content::after {
     content: "";
     display: block;
     clear: both; 
 }
 
-.content p {
+.story-content p {
     margin: 0 auto;
     line-height: 1.3;
 }
