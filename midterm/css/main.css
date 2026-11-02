@@ -24,17 +24,16 @@ body {
 
 .wrapper {
     width: 800px;
-    background-color: white;
+    background-color: #d5eae8;
      /*center block level element*/
     margin: 0 auto;
 
 }
-.left {
-    background-color: teal;
-}
 
-.right {
-    background-color: purple;
+.site-header {
+    height: 300px;
+    position: relative;
+    overflow: hidden;
 }
 main article {
     width: 400px;
