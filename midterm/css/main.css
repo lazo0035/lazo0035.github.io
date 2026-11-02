@@ -152,6 +152,11 @@ form h3 {
     margin-right: 10px;
 }
 
+footer {
+    text-align: right;
+    
+}
+
 /* relative works with any element */
 
 
