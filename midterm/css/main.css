@@ -144,9 +144,13 @@ form h3 {
 }
 
 .radio-options {
-    
+    margin-bottom: 12px;
 }
 
+.radio-options label {
+    display: inline-block;
+    margin-right: 10px;
+}
 
 /* relative works with any element */
 
