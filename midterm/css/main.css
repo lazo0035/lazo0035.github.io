@@ -92,9 +92,9 @@ nav li:last-child {
 main { 
     padding: 8px;
 }
-.story-image {
-    width: 200px;
-    height: 200px;
+.content-image {
+    max-width: 100%;
+    height: auto;
     /*wrap text around image*/
     float: left;
     margin-right: 1rem; 
