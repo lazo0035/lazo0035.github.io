@@ -6,6 +6,7 @@ html {
     font-size: 16px;
     font-family: Arial, sans-serif;
 }
+
 h1 {
     text-align: center;
     color: white;
@@ -16,12 +17,9 @@ h1 {
 }
 
 
-}
 body { 
-    margin-left: 10px;
-    margin-right: 10px;
-    font-family: Arial, sans-serif;
-    background-color: lightblue;
+    margin: 0;
+    background-color: #aad4cf;
 }
 
 .wrapper {
