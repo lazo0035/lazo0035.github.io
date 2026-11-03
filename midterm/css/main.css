@@ -85,7 +85,7 @@ nav li:last-child {
 }
 
 .content-image {
-    max-width: 100%;
+    width: 300px;
     height: auto;
     /*wrap text around image*/
     float: left;
