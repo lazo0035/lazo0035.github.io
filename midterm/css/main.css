@@ -52,11 +52,11 @@ body {
 }
 main  {
     max-width: 800px;
-    padding: 20px;;
+    padding: 20px;
     /* margin: 20px;  */
     box-sizing: border-box;
     /*450px wide*/ 
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 nav { 
