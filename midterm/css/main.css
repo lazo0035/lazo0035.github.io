@@ -85,11 +85,11 @@ nav li:last-child {
 }
 
 .content-image {
-    width: 50%;
+    width: 30%;
     height: auto;
     /*wrap text around image*/
     float: left;
-    margin-right: 1rem; 
+    margin: 0 15px 10px 0; 
 
 }
 
